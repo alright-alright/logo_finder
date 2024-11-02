@@ -1,0 +1,12 @@
+setup.py
+logo_toolkit/__init__.py
+logo_toolkit/cli.py
+logo_toolkit/fetcher.py
+logo_toolkit/resizer.py
+logo_toolkit/utils.py
+logo_toolkit.egg-info/PKG-INFO
+logo_toolkit.egg-info/SOURCES.txt
+logo_toolkit.egg-info/dependency_links.txt
+logo_toolkit.egg-info/entry_points.txt
+logo_toolkit.egg-info/requires.txt
+logo_toolkit.egg-info/top_level.txt
